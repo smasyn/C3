@@ -1,0 +1,12 @@
+name: C3Gauge
+title: C3Gauge
+username:
+account: smasyn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 639707
+bundleId: 1812087
+url: https://smasyn.shinyapps.io/C3Gauge/
+when: 1547409065.41613
+asMultiple: FALSE
+asStatic: FALSE
